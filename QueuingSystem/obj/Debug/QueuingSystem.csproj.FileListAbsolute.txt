@@ -1,0 +1,12 @@
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\bin\Debug\QueuingSystem.exe.config
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\bin\Debug\QueuingSystem.exe
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\bin\Debug\QueuingSystem.pdb
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.csprojAssemblyReference.cache
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.CashierWindowQueue.resources
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.QueuingForm1.resources
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.Properties.Resources.resources
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.csproj.GenerateResource.cache
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.exe
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.pdb
+C:\Users\Russel12\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.CustomerView.resources
